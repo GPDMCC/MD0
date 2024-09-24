@@ -3,7 +3,7 @@
 
 **⚠ NOTE: As of 2022, this license has not been reviewed for legal merit.**
 
-**💌 DONATE?: https://givebutter.com/nohbdy**
+**💌 DONATE?: https://givebutter.com/nbd**
 
 
 A permissive yet (attempt at a) "Tradeleft" and "Patentleft" CC0-like license.
